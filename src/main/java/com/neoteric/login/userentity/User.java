@@ -3,7 +3,7 @@ package com.neoteric.login.userentity;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "users")
+@Table(name = "user")
 public class User {
 
     @Id
